@@ -1,7 +1,7 @@
 {
   "name": "english-vocabulary-quiz-api",
   "version": "1.0.0",
-  "description": "Express API that generates English vocabulary word association quizzes without external APIs.",
+  "description": "Express API that generates English vocabulary quizzes with static and external dictionary sources.",
   "type": "module",
   "scripts": {
     "start": "node ./src/index.js",
